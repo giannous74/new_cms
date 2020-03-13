@@ -38,7 +38,7 @@
       ?>
 
           <h1 class="page-header">
-            Page Heading
+            Page Heading 1
             <small>Secondary Text</small>
           </h1>
 
